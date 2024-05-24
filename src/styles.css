@@ -1,0 +1,4 @@
+.card-collection{
+    grid-template-columns: repeat(3);
+}
+
